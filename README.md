@@ -139,25 +139,20 @@ kia-calculator/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **World Health Organization (WHO)** for growth standards data
 - **Centers for Disease Control and Prevention (CDC)** for providing the [WHO Growth Charts](https://www.cdc.gov/growthcharts/who-growth-charts.htm)
 - **PyTorch** team for the deep learning framework
 - **Matplotlib** and **Plotly** for visualization capabilities
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/kia-calculator](https://github.com/yourusername/kia-calculator)
-- **Issues**: [https://github.com/yourusername/kia-calculator/issues](https://github.com/yourusername/kia-calculator/issues)
-
----
 
 <div align="center">
   <p>Made with ❤️ for maternal and child health</p>
   <p>⭐ Star this repository if you find it helpful!</p>
+
 </div> 
