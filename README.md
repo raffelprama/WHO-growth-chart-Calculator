@@ -36,8 +36,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kia-calculator.git
-   cd kia-calculator
+   git clone https://github.com/raffelprama/WHO-growth-chart-Calculator.git
+   cd WHO-growth-chart-Calculator
    ```
 
 2. **Install dependencies**
